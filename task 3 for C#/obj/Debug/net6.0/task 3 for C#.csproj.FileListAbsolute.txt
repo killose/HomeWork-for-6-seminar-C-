@@ -1,0 +1,15 @@
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\bin\Debug\net6.0\task 3 for C#.exe
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\bin\Debug\net6.0\task 3 for C#.deps.json
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\bin\Debug\net6.0\task 3 for C#.runtimeconfig.json
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\bin\Debug\net6.0\task 3 for C#.dll
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\bin\Debug\net6.0\task 3 for C#.pdb
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\task 3 for C#.csproj.AssemblyReference.cache
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\task 3 for C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\task 3 for C#.AssemblyInfoInputs.cache
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\task 3 for C#.AssemblyInfo.cs
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\task 3 for C#.csproj.CoreCompileInputs.cache
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\task 3 for C#.dll
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\refint\task 3 for C#.dll
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\task 3 for C#.pdb
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\task 3 for C#.genruntimeconfig.cache
+C:\Users\NigaNee\MyProject\Homework for C#\HW seminar 6\task 3 for C#\obj\Debug\net6.0\ref\task 3 for C#.dll
